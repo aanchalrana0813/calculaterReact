@@ -29,9 +29,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#What it does: -
+# What it does: -
 This is a calculator which does all the basic function of a calculator.
 
-#How it looks: -
+# How it looks: -
 ![](images/project8.png)
 
